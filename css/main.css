@@ -99,8 +99,8 @@ textarea {
 #gif{
 
     position: relative;
-    top:83px;
-    left: 51px;
+    top:-330px;
+    left: 33px;
     height:274px;
     width: 156px;
     background-image:url('../gifs/smaller.gif');
@@ -222,12 +222,23 @@ textarea {
     top: 10px;
     display: inline-block;
     margin-left: 50px;
-    height: 450px;
-    width: 250px;
+    height: 420px;
+    width: 220px;
  
+<<<<<<< HEAD
    
     background: url('../img/iphone.png');
 
+=======
+    
+}
+
+#iphonePic{
+
+    width: 100%; 
+    height:auto;
+    margin-top: 20px;
+>>>>>>> c2a3da5eb7416f4a4facc563db1fb9a892d9578a
 }
 
 
