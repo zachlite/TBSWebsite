@@ -216,10 +216,9 @@ textarea {
 
     position: absolute;
     z-index: 3;
-    top: 0px;
+    top: -70px;
     display: inline-block;
     left: 15%;
-    
     width: 220px;
     height: auto;
     
