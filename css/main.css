@@ -215,7 +215,34 @@ textarea {
     text-shadow: gray 0px 2px 2px;
 }
 
-.Iphone{
+
+
+@media (max-width:600px) {
+    .Iphone{
+
+    position: fixed;
+    z-index: 3;
+    top: 200px;
+    display: inline-block;
+    left: 20%;
+    height: 420px;
+    width: 220px;
+   
+    
+    }
+
+    #iphonePic{
+
+    width: 100%; 
+    height:auto;
+    margin-top: 20px;
+
+    }
+
+}
+@media (min-width:601px) {
+
+    .Iphone{
 
     position: fixed;
     z-index: 3;
@@ -224,23 +251,18 @@ textarea {
     margin-left: 50px;
     height: 420px;
     width: 220px;
- 
-<<<<<<< HEAD
    
-    background: url('../img/iphone.png');
-
-=======
     
-}
+    }
 
-#iphonePic{
+    #iphonePic{
 
     width: 100%; 
     height:auto;
     margin-top: 20px;
->>>>>>> c2a3da5eb7416f4a4facc563db1fb9a892d9578a
-}
 
+    }
+}
 
 #footer{
 
