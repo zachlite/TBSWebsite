@@ -96,15 +96,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-#gif{
 
-    position: relative;
-    top:-330px;
-    left: 33px;
-    height:274px;
-    width: 156px;
-    background-image:url('../gifs/smaller.gif');
-}
 
 #sig{
 
@@ -225,19 +217,15 @@ textarea {
     top: 120px;
     display: inline-block;
     left: 15%;
-    height: 420px;
+    
     width: 220px;
-   
+   height: auto;
     
     }
 
-    #iphonePic{
 
-    width: 100%; 
-    height:auto;
-    margin-top: 20px;
 
-    }
+
 
 }
 @media (min-width:731px) {
@@ -249,20 +237,30 @@ textarea {
     top: 10px;
     display: inline-block;
     margin-left: 50px;
-    height: 420px;
+    
     width: 220px;
-   
+    height: auto;
     
     }
 
-    #iphonePic{
+}
+
+#iphonePic{
 
     width: 100%; 
     height:auto;
     margin-top: 20px;
 
     }
+
+#gif{
+
+    width: 152px; 
+    height:275px;
+    margin-top: -429px;
+    margin-left: 34px;
 }
+
 
 #footer{
 
