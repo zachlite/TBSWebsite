@@ -96,7 +96,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#gif{
 
+    position: relative;
+    top:83px;
+    left: 51px;
+    height:274px;
+    width: 156px;
+    background-image:url('../gifs/smaller.gif');
+}
 
 #sig{
 
