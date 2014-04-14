@@ -217,7 +217,7 @@ textarea {
 
 
 
-@media (max-width:600px) {
+@media (max-width:730px) {
     .Iphone{
 
     position: fixed;
@@ -240,7 +240,7 @@ textarea {
     }
 
 }
-@media (min-width:601px) {
+@media (min-width:731px) {
 
     .Iphone{
 
