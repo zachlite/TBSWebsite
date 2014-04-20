@@ -199,6 +199,24 @@ textarea {
     background-image: url('../img/background.png');
 }
 
+#buttonappstore
+{
+    clear: both;
+    position: relative;
+    
+    top:0px;
+    width: 250px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    margin: 40px auto 0 auto;
+    
+    background: transparent url('../img/appstore.png') top left repeat-y;
+ 
+
+    z-index: 10;
+}
 
 #tagline{
 
@@ -221,7 +239,9 @@ textarea {
 
     position: fixed;
     z-index: 3;
-    top: 125px;
+    top: 325px;
+    overflow-y:auto; 
+
     display: inline-block;
     left: 5px;
     width: 130px;
@@ -232,10 +252,10 @@ textarea {
 
     #gif{
 
-    width: 90px; 
-    height:157px;
-    margin-top: -259px;
-    margin-left: 20px;
+    width: 87px; 
+    height:70px;
+    margin-top: -235px;
+    margin-left: 21px;
     }
 
 
@@ -277,10 +297,10 @@ textarea {
 
     #gif{
 
-    width: 152px; 
-    height:275px;
-    margin-top: -429px;
-    margin-left: 34px;
+    width: 148px; 
+    height:100%;
+    margin-top: -390px;
+    margin-left: 36px;
     }
 
 
