@@ -1,4 +1,7 @@
 TBSWebsite
 ==========
 
-This website provides users a place to get more information about and contact the creator of the app Tiny Big Squares.
+
+A website to support the app, "Tiny Big Squares" - a project by Zach Lite.
+
+The website provides a download link, as well as contact information.
